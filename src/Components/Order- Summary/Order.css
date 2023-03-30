@@ -1,0 +1,16 @@
+.order{
+   color: lightblue;
+   border: 1px solid white;
+   background-color: brown;
+   border-radius: 10px;
+   position: sticky;
+   top: 0;
+}
+.order h2{
+  
+   text-align: center;
+   padding: 20px;
+}
+.order h5{
+   padding-left: 30px;
+}
